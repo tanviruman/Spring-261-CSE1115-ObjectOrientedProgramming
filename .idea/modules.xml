@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Spring 261 CSE1115 ObjectOrientedProgramming.iml" filepath="$PROJECT_DIR$/Spring 261 CSE1115 ObjectOrientedProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/class1/class1.iml" filepath="$PROJECT_DIR$/class1/class1.iml" />
     </modules>
   </component>
 </project>
