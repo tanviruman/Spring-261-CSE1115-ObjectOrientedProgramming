@@ -65,4 +65,8 @@ public class Car {
                 ", noOfSeats=" + noOfSeats +
                 '}';
     }
+
+    public static void main(String[] args) {
+        
+    }
 }
